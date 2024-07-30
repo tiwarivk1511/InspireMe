@@ -12,10 +12,9 @@ import com.android.inspireme.screens.VidurFragment;
 public class ViewPagerAdapter extends FragmentPagerAdapter {
 
 
-    public ViewPagerAdapter(@NonNull FragmentManager fm, int behavior) {
-        super(fm, behavior);
+    public ViewPagerAdapter(@NonNull FragmentManager fm, int behaviorResumeOnlyCurrentFragment) {
+        super(fm);
     }
-
 
     @Override
     public Fragment getItem(int position) {
