@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Primary color used throughout the app -->
+    <color name="colorPrimary">#6200EE</color> <!-- Purple color -->
+
+    <!-- Darker variant of the primary color, used in the status bar -->
+    <color name="colorPrimaryDark">#3700B3</color> <!-- Darker purple color -->
+
+    <!-- Accent color used for emphasizing UI elements -->
+    <color name="colorAccent">#03DAC6</color> <!-- Teal color -->
+
+    <!-- Optional: Define other colors used in your app -->
+    <color name="buttonTextColor">#FFFFFF</color> <!-- White text color for buttons -->
+    <color name="buttonBackgroundColor">#6200EE</color> <!-- Background color for buttons -->
+    <color name="rippleColor">#80FFFFFF</color> <!-- Ripple effect color -->
+
+</resources>
